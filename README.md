@@ -10,5 +10,6 @@
 1. Marcelo Magallanes
 2. Roro
 3. Andrés Llanezas
+4. Julieta Scala
 4. Cristian Vargas
 5. Riveros Fabricio
