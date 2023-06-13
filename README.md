@@ -15,3 +15,4 @@
 5. Riveros Fabricio
 6. Dario Marconi
 7. Marcos Narvaez
+8. Palacios Shirley
